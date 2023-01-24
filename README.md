@@ -9,7 +9,7 @@ O processo conta com:
 -	Extração de datasets dos sites do governo
 -	Processo de ETL no Colab utilizando as ferramentas Pandas e Pyspark
 -	Armazenamento dos arquivos originais e tratados no MySQL e MongoDB, respectivamente, bem como o armazenamento no Bucket do Cloud Storage (Originais e Tratados)
--	Análises utilizando as ferramentas BigQuery e dashboard no Looker Studio
+-	Análises utilizando as ferramentas BigQuery e [dashboard no Looker Studio](https://datastudio.google.com/reporting/8d081c88-1634-448b-b40d-802d704fab62)
 
 É possível encontrar todas as referências utilizadas durante o desenvolvimento do projeto e o contato dos meus colegas de trabalho no link acima.
 
